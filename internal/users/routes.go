@@ -3,7 +3,7 @@ package users
 import (
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/render"
-	"swaggo/internal/users/pkg/api"
+	"swaggo/pkg/api"
 
 	"net/http"
 )
